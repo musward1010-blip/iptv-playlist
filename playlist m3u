@@ -1,28 +1,19 @@
-#EXTM3U
-
+  #EXTM3U
 #EXTINF:-1,Chaîne 1
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/268835.ts
-
 #EXTINF:-1,Chaîne 2
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/268838.ts
-
 #EXTINF:-1,Be1 SD
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/285665.ts
-
 #EXTINF:-1,Be2 SD
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/285673.ts
-
 #EXTINF:-1,Be3 SD
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/285672.ts
-
 #EXTINF:-1,Be4 SD
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/285671.ts
-
 #EXTINF:-1,Chaîne 7
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/285670.ts
-
 #EXTINF:-1,Chaîne 8
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/285674.ts
-
 #EXTINF:-1,Arryadia TNT
 http://cf.business-cdn-neo.me/live/8388dbf7f0cf/29f51e7d19/270800.ts
